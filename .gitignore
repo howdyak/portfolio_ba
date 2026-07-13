@@ -1,0 +1,5 @@
+studies/market_mix_model/notebooks/data/raw/marketing_mix.csv
+studies/loan-pf-risk/notebooks/data/processed/lending_club_clean.csv
+studies/loan-pf-risk/notebooks/data/raw/lending_club.csv
+studies/market_mix_model/notebooks/data/processed/mmm_clean.csv
+.idea/
